@@ -14,3 +14,8 @@ TASK 11 script that lists all files
 TASK 12 script that prints the type of the file named iamafile
 TASK 13 symbolic link
 TASK 14 script that copies all the HTML files from the current working directory
+TASK 15 script that moves all files beginning with an uppercase letter
+TASK 16 script that deletes all files in the current working directory
+TASK 17 script that creates the directories
+TASK 18 command that lists all the files and directories of the current directory
+TASK 19 Create a magic file
