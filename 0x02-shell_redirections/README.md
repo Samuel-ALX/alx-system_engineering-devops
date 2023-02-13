@@ -1,6 +1,6 @@
 #!/bin/bash
 TASK 0 script that prints “Hello, World”, followed by a new line to the standard output
-TASK  1 script that displays a confused smiley
+TASK 1 script that displays a confused smiley
 TASK 2 Display the content of the /etc/passwd file
 TASK 3 Display the content of /etc/passwd and /etc/hosts
 TASK 4 Display the last 10 lines of /etc/passwd
@@ -22,3 +22,7 @@ TASK 19 Replace all characters A and c from input to Z and e respectively
 TASK 20 Create a script that removes all letters c and C from input.
 TASK 21 script that reverse its input
 TASK 22 script that displays all users and their home directories, sorted by users
+TASK 23 command that finds all empty files and directories in the current directory and all sub-directories.
+TASK 24 script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+TASK 25 script that decodes acrostics that use the first letter of each line.
+TASK 26 script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
